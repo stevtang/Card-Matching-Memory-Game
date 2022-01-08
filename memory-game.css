@@ -1,0 +1,49 @@
+/* you can add to or change this. */
+
+#game div {
+  border: 1px solid black;
+  width: 100px;
+  height: 150px;
+  padding: 80px;
+  display: inline-block;
+  
+}
+p{
+  margin-bottom: 20px;
+}
+h1 {
+  font-family: 'Londrina Outline', cursive;
+  font-size: 100px;
+}
+.back{
+  background-color: olive;
+  box-shadow: 10px 10px 5px grey;
+}
+.flipped {
+  transform: rotateY(180deg);
+}
+.red{
+  background-color: red;
+  box-shadow: 10px 10px 5px grey;
+  
+}
+
+.orange {
+  background-color: orange;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.purple {
+  background-color: purple;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.green {
+  background-color: green;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.blue {
+  background-color: blue;
+  box-shadow: 10px 10px 5px grey;
+}
